@@ -1,8 +1,8 @@
-Documentação de Javascript com Node.JS e testes com Jest.js
+# Documentação de Javascript com Node.JS e testes com Jest.js
 
 _________________________________________________________________________________________________
 
-Framework de testes JEST.JS
+# Framework de testes JEST.JS
   
 Utilizado para facilitar testar o código JavaScript automaticamente, 
 garantindo que tudo está funcionando como deveria, economizando tempo 
@@ -13,7 +13,7 @@ Site da documentação: https://jestjs.io/
 
 _________________________________________________________________________________________________
 
-Gerenciador de pacotes utilizados
+# Gerenciador de pacotes utilizados
 
 NPM - npm install - É o oficial do Node.js, vem instalado junto.
 
@@ -24,7 +24,7 @@ PNPM - pnpm add - Super rápido e usa menos espaço (reutiliza pacotes)
 
 _________________________________________________________________________________________________
 
-Passos para configurar e rodar com Jest.js
+# Passos para configurar e rodar com Jest.js
 
 Instale o Node.js: https://nodejs.org/pt
 
@@ -38,7 +38,7 @@ Rode os testes com: npm test
 
 _________________________________________________________________________________________________
 
-Como testar:
+# Como testar:
 
 # No arquivo do scripts terá que importar os módulos:
 
