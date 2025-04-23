@@ -64,6 +64,8 @@ test(“a soma de 2 + 3 deve ser 5", () => {
 
 # Rode o testes: npm test
 
+CMD: npm test
+
 
 
 
